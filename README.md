@@ -36,7 +36,7 @@ Instead of wasting time refreshing pages, Exam Khabri uses an **intelligent clou
 
 You can download the latest version directly from this repository:
 
-### [👉 Click Here to Download APK (v1.0)](https://github.com/ChandanGupta31/exam-khabri-app/releases/tag/v1.0.0)
+### [👉 Click Here to Download APK (v1.0.1)](https://github.com/ChandanGupta31/exam-khabri-app/releases/tag/v1.0.1)
 
 *Note: Since this is a portfolio project, your phone might ask for permission to install apps from unknown sources.*
 
