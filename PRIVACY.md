@@ -17,3 +17,13 @@ We want to inform you that whenever you use our Service, in a case of an error i
 
 **Contact Us**
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at **examkhabri.official@gmail.com**.
+
+
+## Data Deletion Request
+We value your privacy. If you wish to delete your account and all associated data (including your exam tracking history), please follow these steps:
+
+1. Send an email to **examkhabri.official@gmail.com**.
+2. Use the Subject Line: **"Delete My Account"**.
+3. Include your registered email address (if applicable) or simply request deletion.
+
+We will permanently delete your data from our servers within 30 days of receiving your request.
